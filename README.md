@@ -34,6 +34,6 @@ end
 
 #### 效果图
 <!-- ![avatar](testdoc.gif) -->
-<img src="https://github.com/WeinanHu/WNDocWebViewController/testdoc.gif" width=257 height=459 />
+<img src="https://github.com/WeinanHu/WNDocWebViewController/blob/master/testdoc.gif" width=257 height=459 />
 <!-- <iframe height=459 width=257 src="https://github.com/WeinanHu/WNDocWebViewController/testdoc.gif"> -->
 
