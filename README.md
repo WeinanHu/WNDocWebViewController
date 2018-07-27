@@ -1,8 +1,17 @@
 ### WNDocWebViewController
 
 这是一个使用WKWebView读取doc、docx文档的控制器，需要作为子控制器使用。
+#### 可以pod install
+```
+platform :ios, '8.0'
 
-#### 使用方式
+target 'testpoddoc' do
+
+    pod 'WNDocWebViewController'
+
+end
+```
+#### 代码使用方式
 ```objectivec
     NSString *path = [[NSBundle mainBundle]pathForResource:@"test5.docx" ofType:nil];
     
@@ -25,6 +34,6 @@
 
 #### 效果图
 <!-- ![avatar](testdoc.gif) -->
-<img src="testdoc.gif" width=257 height=459 />
+<img src="https://github.com/WeinanHu/WNDocWebViewController/testdoc.gif" width=257 height=459 />
 <!-- <iframe height=459 width=257 src="https://github.com/WeinanHu/WNDocWebViewController/testdoc.gif"> -->
 
