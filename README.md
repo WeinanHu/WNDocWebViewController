@@ -33,7 +33,7 @@ end
 5. 记录并自动恢复上次已调整的字体大小
 
 #### 效果图
-<!-- ![avatar](testdoc.gif) -->
-<img src="https://github.com/WeinanHu/WNDocWebViewController/raw/master/testdoc.gif" width=257 height=459 />
+![image](https://github.com/WeinanHu/WNDocWebViewController/raw/master/testdoc.gif)
+<!-- <img src="https://github.com/WeinanHu/WNDocWebViewController/raw/master/testdoc.gif" width=257 height=459 /> -->
 <!-- <iframe height=459 width=257 src="https://github.com/WeinanHu/WNDocWebViewController/testdoc.gif"> -->
 
